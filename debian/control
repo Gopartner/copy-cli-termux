@@ -1,0 +1,7 @@
+Package: copy
+Version: 1.0.0
+Architecture: all
+Maintainer: Yudi billy <email@example.com>
+Depends: termux-tools
+Description: CLI untuk menyalin isi file ke clipboard di Termux.
+
